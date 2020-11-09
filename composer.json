@@ -1,0 +1,14 @@
+{
+    "name": "masatar/form-builder",
+    "description": "Split your view from your data and logic in an easy way!",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "masatar",
+            "email": "ramazan.dogan@live.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

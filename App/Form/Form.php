@@ -1,12 +1,12 @@
 <?php
 
-namespace App;
+namespace App\Form;
 
-class FormBuilder
+class Form
 {
 
     public function __construct()
     {
-        # code...
+        echo "Hello Form";
     }
 }
